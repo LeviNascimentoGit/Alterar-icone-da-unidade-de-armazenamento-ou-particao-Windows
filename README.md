@@ -11,3 +11,7 @@
 
 > Após alterar o ícone, a unidade precisa ser desconectada e conectada novamente para ser mostrada com o novo ícone, no caso de um disco interno, será necessário reiniciar o computador ou Remover e em seguida Atribuir novamente a letra da unidade ou partição. Isso pode ser feito usando o ```Gerenciador de Disco do Windows``` (não é necessário alterar para uma letra diferente).
 
+## Personalização
+Para usar ícones personalizados, basta adicionar um arquivo de ícone e usar o formato de nome ```<numero>.ico```  
+Ex: ```99.ico``` 
+> Somente arquivo no formato ```.ico``` são suportados

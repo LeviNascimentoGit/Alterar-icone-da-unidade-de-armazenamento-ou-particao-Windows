@@ -14,4 +14,4 @@
 ## Personalização
 Para usar ícones personalizados, basta adicionar um arquivo de ícone e usar o formato de nome ```<numero>.ico```  
 Ex: ```99.ico``` 
-> Somente arquivo no formato ```.ico``` são suportados
+> Somente arquivos no formato ```.ico``` são suportados

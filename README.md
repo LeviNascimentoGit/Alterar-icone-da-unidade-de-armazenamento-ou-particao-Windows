@@ -4,14 +4,15 @@
 
 ## Instruções
 
-1. Use git clone ou download zip para baixar os arquivos desse repositorio
-2. Execute o arquivo `Mudar icone da particao.bat` como Administrador
+1. Use git clone ou download zip para baixar os arquivos desse repositório
+2. Execute o arquivo `Mudar icone da particao.bat`
 3. Digite a letra que representa a Unidade de Disco ou Partição que você quer alterar o ícone
-4. Digite o número do ícone que quer usar
+4. Digite o número do ícone que deseja usar
 
-> Após alterar o ícone, a unidade precisa ser desconectada e conectada novamente para ser mostrada com o novo ícone, no caso de um disco interno, será necessário reiniciar o computador ou Remover e em seguida Atribuir novamente a letra da unidade ou partição. Isso pode ser feito usando o ```Gerenciador de Disco do Windows``` (não é necessário alterar para uma letra diferente).
+> Após alterar o ícone, a unidade precisa ser desconectada e conectada novamente para ser mostrada com o novo ícone.  
+> No caso de um disco interno, basta reiniciar o computador;  
+> ou Remover e Atribuir novamente a letra da unidade ou partição (não é necessário alterar para uma letra diferente). Isso pode ser feito usando o ```Gerenciador de Disco do Windows```.
 
 ## Personalização
-Para usar ícones personalizados, basta adicionar um arquivo de ícone e usar o formato de nome ```<numero>.ico```  
-Ex: ```99.ico``` 
+Para usar ícones personalizados, basta adicionar um arquivo de ícone no diretório `.\resources\icons`  
 > Somente arquivos no formato ```.ico``` são suportados

@@ -1,3 +1,3 @@
 - Coloque seus arquivos de ícone *ico nesta pasta. Isso vai permitir que sejam listados no novo menu dinâmico.
 - Devido aos direitos autorais, coloquei apenas alguns ícones para exemplificar.
-- Caso você seja um designer ou desenvolvedor e deseja seus ícones publicados aqui, basta entrar em contato comigo. Todos os créditos serão direcionados a você.
+- Caso você seja um designer ou desenvolvedor e deseja seus ícones publicados aqui, basta entrar em contato comigo. Todos os créditos serão devidamente atribuídos.

@@ -29,8 +29,9 @@ O software [Format Factory](http://www.pcfreetime.com/formatfactory/) pode ser u
 
 [Folder 11](https://github.com/icon11-community/Folder11/tree/main/svg)
 
-[OpenCore - Golden Gate](https://github.com/acidanthera/OcBinaryData/tree/master/Resources/Image/Acidanthera/GoldenGate)
+[OpenCore - Golden Gate](https://github.com/acidanthera/OcBinaryData/tree/master/Resources/Image/Acidanthera/GoldenGate)  
 [Abrir e baixar no formato *icns](https://relikd.github.io/icnsutil/html/viewer.html)
+
 [Eleven Forum - Windows 11 icons](https://www.elevenforum.com/t/custom-icons-for-windows-11-thread-folders-dropbox-google-drive-podcasts-nvme-drive-steam-adobe.448/)
 
 # Em breve...

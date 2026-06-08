@@ -1,4 +1,4 @@
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c0b0ea8d-2f85-4feb-ab0a-548049467011" />
+<img width="530" height="300" alt="image" src="https://github.com/user-attachments/assets/c0b0ea8d-2f85-4feb-ab0a-548049467011" />
 
 # Mudar o ícone da partição de uma unidade de disco no Windows
 

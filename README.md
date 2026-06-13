@@ -38,4 +38,4 @@ O software [Format Factory](http://www.pcfreetime.com/formatfactory/) pode ser u
 [Eleven Forum - Windows 11 icons](https://www.elevenforum.com/t/custom-icons-for-windows-11-thread-folders-dropbox-google-drive-podcasts-nvme-drive-steam-adobe.448/)
 
 # Em breve...
-- Conversão embutida de outros formatos para *.ico
+- Conversão automatica de outros formatos para *.ico

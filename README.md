@@ -1,6 +1,6 @@
 <img width="530" height="300" alt="image" src="https://github.com/user-attachments/assets/c0b0ea8d-2f85-4feb-ab0a-548049467011" />
 
-# Mudar o ícone da partição de uma unidade de disco no Windows
+# Mudar o ícone de uma unidade de armazenamento ou Partição de disco no Windows
 
 > Este repositório contém um Batch Script que automatiza e simplifica a mudança do ícone de uma unidade de armazenamento como Pendrive, HD externo ou Partição de disco.
 
